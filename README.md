@@ -2,16 +2,10 @@
 
 For detailed explanation see [this post](https://medium.com/p/6b7514556185).
 
-![App example showing UI controls. Highlights a cat](pub/cat.jpeg)
-
-![App example showing UI controls. Highlights a cat](pub/dog.gif)
-
 
 ### Overview
 
 This application was adapted using code from:
-- [TensorFlow Lite Object Detection Android Demo](https://github.com/tensorflow/examples/tree/master/lite/examples/object_detection/android), and
-- [Ultralytics Flutter demo app](https://github.com/ultralytics/yolo-flutter-app)
 
 ### Licences
 Original TensorFlow Lite Object Detection Android Demo has [Apache License 2.0](LICENSE-Apache2.0.txt), while Ultralytics has [GNU GENERAL PUBLIC LICENSE](LICENSE).
